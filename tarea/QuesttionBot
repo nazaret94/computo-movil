@@ -1,0 +1,18 @@
+struct MyQuestionAnswerer {
+    
+    func responseTo(question: String) -> String{
+        // PENDIENTE: Escribir una respuesta
+     // question.lowercased()
+        if(question.lowercased().starts(with: "hola")){
+            return "Hola naz"
+        }else if(question.lowercased().contains("2")){
+           return "Es un dos "
+        }else if(question.lowercased().starts(with: "como")){
+            return"Muy bien y tu"
+        }else if(question.lowercased().starts(with: "cuantos") ){
+            return " 24"
+        }else{
+             return "no se que decir"   }
+        
+    }
+}
