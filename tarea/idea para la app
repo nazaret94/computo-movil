@@ -1,0 +1,18 @@
+MEMORAMA DE MEMES
+se creara un juego de memorama las fichas contendran imagenes de los mejores meme,
+tendra dos modo de juego:
+* un solo jugador (donde jugara con la maquina): se mostrarauna imagen y un mensaje dependiendo de las tres opciones que ocurren
+    - cuando pierda 
+    - cuando gane 
+    - cuando exista un empate
+    
+* dos jugadores: podras poner el nombre de jugador 1 y jugador 2 despues empezara el juego en este modo tambien se mostrara una imagen 
+y un mensaje dependiendo:
+    - cuando pierde uno de los dos jugadores lansara un mensaje:
+      El jugardor 1 te ha derrotado jugador 2 (cuando gane el jugador 1)
+      El jugador 2 te ha derrotado jugador 1 (cuando gane el jugador2)
+    - cuando exista un empate.
+  
+   en los dos casos apareceran 3 opciones al final del juego: 1. jugar otra vez 2.regresar al menu 3.salir
+      
+
